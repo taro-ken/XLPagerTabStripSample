@@ -1,0 +1,2 @@
+# XLPagerTabStripSample
+上タブスワイプを実装するライブラリのサンプル
